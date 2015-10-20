@@ -4,6 +4,15 @@ body {
   color: white;
 }
 
+#game-over {
+  background-color: black;
+  width: 50%;
+  height: 80%;
+  margin: 0 20%;
+  padding: 15%;
+  position: fixed;
+}
+
 .container {
   color: white;
   width: 100%;
