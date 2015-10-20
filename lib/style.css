@@ -1,8 +1,11 @@
 body {
-  margin: 10% 20%;
+  background: url("halloween.jpg") no-repeat bottom center scroll;
+  background-size: cover;
+  color: white;
 }
 
 .container {
+  color: white;
   width: 100%;
 }
 
