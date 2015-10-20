@@ -8,5 +8,11 @@ body {
 
 canvas {
   background-color: #b8c9f9;
-  margin: 10% 20%;
+  margin: 0% 20%;
+}
+
+img {
+  width: 3%;
+  height: auto;
+  padding: 0
 }
